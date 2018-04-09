@@ -36,8 +36,8 @@ class Inicio extends React.Component{
                  <Text>{this.state.numero}</Text>
                 </View>
                 <View style={styles.cajaTres}>
-                    <Button title="Aumentars" onPress={ () => { this.aumentar(); } } />
-                    <Button title="Restar aqui" onPress={ () =>  { this.disminuir(); }  } />
+                    <Button title="Click para Aumentar" onPress={ () => { this.aumentar(); } } />
+                    <Button title="Click para Restar" onPress={ () =>  { this.disminuir(); }  } />
                 </View>
             </View >
         );
