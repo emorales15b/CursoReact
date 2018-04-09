@@ -29,7 +29,7 @@ class Inicio extends React.Component{
         return (
             <View style={styles.container} >
                 <View style={styles.cajaUno}>
-                    <Text>Contador</Text>
+                    <Text>Contadors</Text>
                 </View>
                 <View style={styles.cajaDos}>
                  {/*   <Text>2</Text>*/}
