@@ -29,6 +29,7 @@ class Inicio extends React.Component{
         return (
             <View style={styles.container} >
                 <View style={styles.cajaUno}>
+                <Text>Test</Text>
                     <Text>Titulo Contador</Text>
                 </View>
                 <View style={styles.cajaDos}>
