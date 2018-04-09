@@ -32,7 +32,7 @@ class Inicio extends React.Component{
                 <Text>CURSO HUGO</Text>
                 <Text>CURSO REACT</Text>
                 <Text>Test</Text>
-                    <Text>Titulo Contador</Text>
+                    <Text>Titulo aries</Text>
                 </View>
                 <View style={styles.cajaDos}>
                  {/*   <Text>2</Text>*/}
