@@ -1,7 +1,7 @@
 import React from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
 
-//export default 121212211231231323
+//export default 222
 class Inicio extends React.Component{
 
 
